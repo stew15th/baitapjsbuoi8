@@ -1,0 +1,48 @@
+* {
+    margin-left: 8px;
+}
+.card {
+    max-width: min-content;
+}
+.input__group {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    justify-items: center;
+    margin-left: 8px;
+    padding: 8px 0;
+}
+
+.card-body {
+    padding: 8px 8px 8px 0;
+    margin-left: 0;
+}
+
+.card-text {
+    width: 200px;
+    margin: auto 0;
+}
+
+.form-control {
+    font-size: 16px;
+    margin-top: 8px;
+    width: 200px;
+    border: 1px solid #cccccc;
+    font-weight: 400;
+    color: #888;
+    margin-right: 8px;
+}
+
+.btn {
+    margin-bottom: 8px;
+    width: fit-content;
+}
+
+span {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    margin: 8px;
+}
